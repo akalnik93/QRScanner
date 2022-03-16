@@ -10,4 +10,4 @@
 - скопировать URL-адрес в буфер обмена
 - закрыть алерт
 
-<img src="ScreenShots/Scanner.png" width="120"> <img src="ScreenShots/Alert.png" width="120">
+<img src="ScreenShots/Scanner.jpg" width="120"> <img src="ScreenShots/Alert.jpg" width="120">
